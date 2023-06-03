@@ -12,8 +12,8 @@
 八大精彩,https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1685514988&rand=L8fA4fGBVG&uuid=9b647b3816b2a66a&from=web&sign=0d48f01f8ed9839b7ab2e77c5a65a911
 八大第一,https://dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&timestamp=1685514720&rand=YPB5r2dg0G&uuid=9b647b3816b2a66a&from=web&sign=604118258aac8a8c00ae8c7927557743
 东森综合,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685515742&rand=ZiL2HHlSDp&uuid=9b647b3816b2a66a&from=web&sign=28e5ab73c186206db29413d9fcbfbb04
-凤凰卫视资讯,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰卫视,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
+凤凰卫视资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 东森新闻台,http://awei.beimua.com/iptv.php?id=44
 中视新闻台,http://awei.beimua.com/iptv.php?id=46
 台视新闻台,http://awei.beimua.com/iptv.php?id=47
