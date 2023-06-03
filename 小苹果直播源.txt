@@ -14,7 +14,7 @@
 东森综合,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685515742&rand=ZiL2HHlSDp&uuid=9b647b3816b2a66a&from=web&sign=28e5ab73c186206db29413d9fcbfbb04
 凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰卫视资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-东森新闻台,http://awei.beimua.com/iptv.php?id=44
+凤凰卫视资讯,http://39.135.138.58:18890/ysten-businessmobile/live/fhzixun/1.m3u8
 中视新闻台,http://awei.beimua.com/iptv.php?id=46
 台视新闻台,http://awei.beimua.com/iptv.php?id=47
 三立新闻台,http://awei.beimua.com/iptv.php?id=48
