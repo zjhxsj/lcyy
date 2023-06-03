@@ -14,7 +14,7 @@
 东森综合,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685515742&rand=ZiL2HHlSDp&uuid=9b647b3816b2a66a&from=web&sign=28e5ab73c186206db29413d9fcbfbb04
 凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰卫视资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰卫视资讯,http://39.135.138.58:18890/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰卫视资讯,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1685830279/ei/J2Z7ZNb7KuqX_9EP__CaKA/ip/172.177.233.49/id/sUISafvOieY.3/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/ yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr1---sn-p5qlsndk.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/ qEK7BxJY20w3uXFo7WDpfBtihXnJo3w/vprv/1/playlist_type/DVR/mh/yQ/mm/44/mn/sn-p5qlsndk/ms/lva/mv/u/mvi/1/pl/21/dover/11/pacing/0/keepalive/ yes/fexp/24007246,51000013/mt/1685807869/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRgIhANPygK 5vFBfgtcDRtVmlDgBEviom1z8czqVf4F3zOb7JAiEAuzuHE1_qRG0EgRqYQijXmFvwX1lLSvnxvLGfRDRydOE% 3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRgIhAPX43577L4A0YI0aTm9iG0F9-Vg1aWQAbkfLpcmrqLUmAiEAvzsNiUcM9cmsRZDoswSednvTqXM57ZYZ7pvt8Q72cfE%3D/playlist/index.m3u8
 中视新闻台,http://awei.beimua.com/iptv.php?id=46
 台视新闻台,http://awei.beimua.com/iptv.php?id=47
 三立新闻台,http://awei.beimua.com/iptv.php?id=48
