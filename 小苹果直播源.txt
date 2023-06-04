@@ -42,9 +42,9 @@ ELEVEN 1,http://awei.beimua.com/iptv.php?id=76
 爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
 財經體育資訊台,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
-翡翠台,http://hkanime.live/raw.m3u
-翡翠台,http://172.16.149.176:9090/live/1350_4500.m3u8
-翡翠台,http://radius.8866.org:800/hls/80/index.m3u8
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8
+翡翠台,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8
 翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
 翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
 翡翠台,http://zb.688768.xyz/jiudian/jddb.php?member=liubwdefd34&playurl=http://113.64.147.27:808/hls/67/index.m3u8
