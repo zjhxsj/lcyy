@@ -2,7 +2,6 @@
 🌙月光宝盒,#genre#
 鳯凰衛視資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 鳯凰衛視中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-翡翠,https://stream-cdn.hkanime.live/hls/201/index.m3u8?token=iXCJvavuJq3yI7qyElm14Q&expires=1700272973
 翡翠台,http://lu1.cc/a/play/php/gudou.php?id=fct
 翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
 翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
