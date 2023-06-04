@@ -12,16 +12,16 @@
 八大精彩,https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1685514988&rand=L8fA4fGBVG&uuid=9b647b3816b2a66a&from=web&sign=0d48f01f8ed9839b7ab2e77c5a65a911
 八大第一,https://dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&timestamp=1685514720&rand=YPB5r2dg0G&uuid=9b647b3816b2a66a&from=web&sign=604118258aac8a8c00ae8c7927557743
 东森综合,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685515742&rand=ZiL2HHlSDp&uuid=9b647b3816b2a66a&from=web&sign=28e5ab73c186206db29413d9fcbfbb04
-凤凰卫视,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰卫视,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
-凤凰资讯,rtmp://playtv-live.ifeng.com/live/06OLEEWQKN4
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-凤凰资讯,http://50.7.238.114:8278/phoenix ... f74838380086dce3e44
-凤凰资讯,http://50.7.238.98:8278/phoenixi ... f74838380086dce3e44
-凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-凤凰中文,rtmp://playtv-live.ifeng.com/live/06OLEGEGM4G
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
+ELEVEN SPORTS 1 HD,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN SPORTS 2 HD,http/http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+廈門衛視,http://61.221.81.93:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://61.221.81.93:8078/hls/42/80/cctv4.m3u8
+海峽衛視,http://61.221.81.93:8078/hls/42/80/fjttv.m3u8
+浙江衛視,http://61.221.81.93:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://61.221.81.93:8078/hls/41/80/east.m3u8
+湖南衛視,http://61.221.81.93:8078/hls/41/80/huana.m3u8
+鳯凰衛視資訊,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+鳯凰衛視中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 中视新闻台,http://awei.beimua.com/iptv.php?id=46
 台视新闻台,http://awei.beimua.com/iptv.php?id=47
 三立新闻台,http://awei.beimua.com/iptv.php?id=48
