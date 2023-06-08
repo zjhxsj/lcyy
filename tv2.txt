@@ -1,4 +1,4 @@
-🔆精选，#genre#
+🔆精选,#genre#
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 电影黄金，http://61.221.81.93:8524/hls/65/807/ch843.m3u8
 星际,http://61.221.81.93:8521/hls/65/807/ch843.m3u8
@@ -53,7 +53,7 @@ CHC家庭影院,http://live.cooltv.top/tv/aishang.php?id=chcjtyy
 CHC高清电影,http://live.cooltv.top/tv/aishang.php?id=chcgqdy
 CHC家庭影院,http://125.40.191.58:9901/tsfile/live/1001_1.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://117.148.179.157/ PLTV/88888888/224/3221232942/index.m3u8#http://111.20.33.93/TVOD/88888893/224/3221226462/index.m3u8#http://gxfrg007.8800.org:8282/tsfile/live/1096_1。 m3u8#http://59.49.41.41/live.aishang.ctlcdn.com/00000110240323_1/playlist.m3u8?CONTENTID=00000110240323_1#http://117.148.179.151/PLTV/88888888/224/3221231 799/索引.m3u8
 CHC高清电影,http://gxfrg007.8800.org:8282/tsfile/live/1097_1.m3u8#http://59.49.41.44/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=000001102 40325_1# http://59.49.41.41/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1
-🔆央视直播，#genre#
+🔆央视直播,#genre#
 CCTV-1高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
 CCTV-2高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv2HD/__op/default/__f/index.m3u8
 CCTV-3高清,http://113.207.84.197:8090/__cl/cg:live/__c/cctv3HD/__op/default/__f/index.m3u8
@@ -98,7 +98,7 @@ CCTV电视指南,http://58.205.220.58:8088/tlivecfree-cdn.ysp.cctv.cn/ysp/201251
 
 央视卫生健康,http://58.205.220.58:8088/tlivecfree-cdn.ysp.cctv.cn/ysp/2012513502.m3u8
 
-🔆卫视，#流派#
+🔆卫视,#流派#
 东南卫视高清,http://113.207.84.197:8090/__cl/cg:live/__c/dongnanHD/__op/default/__f/index.m3u8
 东方卫视高清,http://113.207.84.197:8090/__cl/cg:live/__c/shanghaiHD/__op/default/__f/index.m3u8
 云南卫视高清,http://113.207.84.197:8090/__cl/cg:live/__c/yunnanSD/__op/default/__f/index.m3u8
@@ -158,7 +158,7 @@ CHC家庭影院,http://113.207.84.197:8090/__cl/cg:live/__c/chcjtyyHD/__op/defau
 央视兵器科技高清,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 
-🔆8M专区，#流派#
+🔆8M专区,#流派#
 CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV3,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
@@ -431,7 +431,7 @@ MBC,http://pull-l3-cny.douyincdn.com/third/stream-4f444d2b71e8fbab0a8802b9fa23ea
 SBS,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f1c.m3u8
 
 
-🔆NEWTV，#genre#
+🔆NEWTV,#genre#
 超级电影,http://39.135.138.58:18890/PLTV/88888888/224/3221225766/index.m3u8
 
 超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/index.m3u8
@@ -544,7 +544,7 @@ SBS,http://pull-l3-cny.douyincdn.com/third/stream-d10b659225b3738937372b8835b94f
 
 
 
-🔆体育，#流派#
+🔆体育,#流派#
 纬来体育,http://123.51.230.108:18509/http/192.168.1.9:8081/hls/67/809/12_2440494.m3u8
 ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
 ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
@@ -590,7 +590,7 @@ Fashion4K, https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_d
 七彩戏,http://183.207.255.188/live/program/live/qcxj/1300000/mnf.m3u8
 东方财经,http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 靓妆,http://39.135.138.58:18890/PLTV/88888910/224/3221225509/index.m3u8?fmt=ts2hls
-🔆4K8K，#流派#
+🔆4K8K,#流派#
 BTV纪实科教-8KSDR源,http://159.75.85.63:6798
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢乐剧场4KHLG小果源,http://111.20.35.103:6610/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -824,7 +824,7 @@ CHC家庭影院,http://113.207.84.197:8090/__cl/cg:live/__c/chcjtyyHD/__op/defau
 央视兵器科技高清,http://113.207.84.197:8090/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
 
 
-🔆谷豆，#genre#
+🔆谷豆,#genre#
 G导视,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=GHDdaoshi_7500
 
 翡翠台，http：//suixiaobin.dsmynas.net：5666/gudou.php？phone = 18581519202＆ptoken = 8S6lhdnzoxb8fz91xebywg％3D％3D＆pserialnumber = 004BFC8FC8FC8FC856CD2797979797979797797979779797979797979797999799979797979.
@@ -1106,7 +1106,7 @@ http：//suixiaobin.dsmynas.net：5666/gudou.php？电话= 18581519202＆ptoken 
 清远文旅生活,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=qingyuang ongong_1500
 
 腾讯新闻综合,http://suixiaobin.dsmynas.net:5666/gudou.php?phone=18581519202&ptoken=8S6lHDnZOXb
-🔆歌华，#流派#
+🔆歌华,#流派#
 CCTV16-4K, https://live.v1.mk/api/ghyx.php?id=CCTV16UHD_25000
 CCTV-4K, https://live.v1.mk/api/ghyx.php?id=CCTV4K_25000
 CCTV-4K,http://159.75.85.63:5680/d/ad/playad.m3u8
@@ -1223,7 +1223,7 @@ CETV4标清,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
 
 
 
-🔆动画，#genre#
+🔆动画,#genre#
 【七龙珠改】超级赛亚人孙遮空,https://epg.112114.xyz/huya/11601966
 【蓝色胖】你看得到我的腿吗,https://epg.112114.xyz/huya/11601963
 【海绵宝】黄方块的爆笑生活~,https://epg.112114.xyz/huya/11352919
@@ -1306,7 +1306,7 @@ CETV4标清,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
 LexBurner，http://zzy789.xyz/bili.php?id=11365
 -猫大人-,http://zzy789.xyz/bili.php?id=723
 
-🔆IHOT，#流派#
+🔆IHOT,#流派#
 爱亚洲,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000006&livemode=1&stbId=3$ITV
 爱电竞,http://39.134.136.161:6610/000000001000/2000000004000000054/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000054&livemode=1&stbId=3$ITV
 爱电竞,http://39.134.136.161:6610/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000230630&livemode=1&stbId=3$ITV
@@ -1368,7 +1368,7 @@ LexBurner，http://zzy789.xyz/bili.php?id=11365
 爱娱乐,http://39.134.136.161:6610/000000001000/6000000006000130630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000130630&livemode=1&stbId=3$ITV
 爱院线,http://39.134.136.161:6610/000000001000/2000000004000000034/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000034&livemode=1&stbId=3$ITV
 爱院线,http://39.134.136.161:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3$ITV
-🔆虎牙，#genre#
+🔆虎牙,#genre#
 
 周星辰,http://live.aptvapp.com/live/huya/11342412?platform=h5&line=first&quality=10000
 陈翔六点半,http://live.aptvapp.com/live/huya/11274154?platform=h5&line=first&quality=10000
@@ -2028,7 +2028,7 @@ DD-解说新七龙珠动画武林大会,http://121.51.52.16/txdirect.flv.huya.co
 Adam短发海贼王我从奥哈拉屠魔抢了尾田的动画,http://121.51.52.16/txdirect.flv.huya.com/src/1199532313878-1199532313878-5310462 036252033024-2399064751212-10057-A-0-1 .m3u8?wsiphost=ipdbme
 树袋熊小九九【五福星】每天都要快乐哦,http://121.51.52.16/txdirect.flv.huya.com/src/1356780980-1356780980-5827329936934830080-2713 685416-10057-A-0-1.m3u8？ wsiphost=ipdbme
 
-🔆埋堆，#流派#
+🔆埋堆,#流派#
 埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
 
 埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
@@ -2154,7 +2154,7 @@ Adam短发海贼王我从奥哈拉屠魔抢了尾田的动画,http://121.51.52.1
 埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
 
 
-🔆体育，#流派#
+🔆体育,#流派#
 河南卫视+武林风十八周年庆典+功夫盛典回放,http://111.62.156.15/tx.flv.huya.com/src/1711747086-1711747086-73518977533 93299456-3423617628-10057-A-0-1.flv？ wsSecret=e2439fa6cb8de38cb07c597d3f5a3684&wsTime=6283a69c&u=0&seqid=16527086367547690&ctype=tars_mp&txyp=o%3Acs6%3B&fs=bgct&t=102
 向阳花,http://txtest-xp2p.p2p.huya.com/src/1524439830-1524439830-6547419214569799680-3049003116-10057-A-0-1.flv?wsSecret=befc0eeef116f6c58 13524a0c6c380ca&wsTime=62862ad3&u=0&seqid=16528735548110000&ctype=tars_mobile&fs=bgct&t =103
 小溪的温柔空间+妹子群祭时刻+女人的战争,http://111.62.156.15/tx.flv.huya.com/src/1099531627889-1099531627889-8589983125130444 8-2199063379234-10057-A-0-1.flv ?wsSecret=7006c4b5065e8151f6b97427995d0a58&wsTime=6283a6af&u=0&seqid=16527086553225650&ctype=tars_mp&fs=bgct&t=102
