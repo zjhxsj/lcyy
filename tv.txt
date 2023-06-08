@@ -1,4 +1,6 @@
 港澳台,#genre#
+凤凰资讯,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
+凤凰中文,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰资讯,http://iptv.weai.love/10010/88888888/gxgg.play?tvid=fhzx
@@ -11,6 +13,14 @@
 凤凰中文,http://iptv.weai.love/live/88888888/fhzw.m3u8
 凤凰中文,http://cs.iptv6.top/dsm.php?id=test1_4000
 凤凰中文,http://183.129.242.178:3333/tsfile/live/1001_1.m3u8
+翡翠台,http://lu1.cc/a/play/php/gudou.php?id=fct
+翡翠台,http://qwas.eatuo.com:9901/tsfile/live/1013_1.m3u8
+翡翠台,http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=ME6E1330319113303191&ct=19225&tsum=d76985c4965fd63807e131035f66af09
+翡翠星河台,http://198.16.100.90:8278/tvbxinhe_twn/playlist.m3u8?tid=ME2E8352893183528931&ct=19225&tsum=5f852c878e02000708a055c6b08a9405
+翡翠台,http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e
+翡翠台,http://shazui.8866.org:800/hls/80/index.m3u8
+翡翠台,http://xjayrf.eatuo.com:9901/tsfile/live/1004_1.m3u8
+翡翠台,http://hkanime.live/raw.m3u
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
 星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
@@ -86,6 +96,45 @@ ELEVEN 1,rtmp://219.80.97.77/sat/tv731
 ELEVEN 2,rtmp://219.80.97.77/sat/tv741
 爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
 爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
+金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+澳门莲花,http://107.151.203.111:2209/135/hk.php?id=amlh
+澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+有限电影台,https://dispatch.ulivetv.net/v/live/cl7bvftacyps.m3u8?stream_id=cl7bvftacyps&timestamp=1685452132&rand=wdpimSXJcK&uuid=9b647b3816b2a66a&from=web&sign=6e67ef86dcc03c06a63c52027cabbff8
+卫视电影,https://dispatch.ulivetv.net/v/live/cl7cs387s6v4.m3u8?stream_id=cl7cs387s6v4&timestamp=1685433503&rand=O2QFLQivnk&uuid=9b647b3816b2a66a&from=web&sign=804982e033e1674809ce4a89384749fd
+龙翔电影,https://dispatch.ulivetv.net/v/live/cl7cjqrlyzeo.m3u8?stream_id=cl7cjqrlyzeo&timestamp=1685515045&rand=bhPjMmvhBb&uuid=9b647b3816b2a66a&from=web&sign=31f24b5ffa0d43f838fdac3e48075891
+年代新闻,https://dispatch.ulivetv.net/v/live/cl7cbgg2j000.m3u8?stream_id=cl7cbgg2j000&timestamp=1685515140&rand=YCQ0wCyLdl&uuid=9b647b3816b2a66a&from=web&sign=4a1adfcb5c36cb457d07bf432587f106
+卫视中文,https://dispatch.ulivetv.net/v/live/cl7ciyx4pznk.m3u8?stream_id=cl7ciyx4pznk&timestamp=1685515232&rand=3v6yI4wC3h&uuid=9b647b3816b2a66a&from=web&sign=b74cbfbae00051ca031f47ba0ef4c297
+中视,https://dispatch.ulivetv.net/v/live/cfm2qel2kn9c.m3u8?stream_id=cfm2qel2kn9c&timestamp=1685515348&rand=W5LSlHv9Ba&uuid=9b647b3816b2a66a&from=web&sign=e8406e98ee99a858d29d88e951e59d88
+八大精彩,https://dispatch.ulivetv.net/v/live/cg0j44tc0kow.m3u8?stream_id=cg0j44tc0kow&timestamp=1685514988&rand=L8fA4fGBVG&uuid=9b647b3816b2a66a&from=web&sign=0d48f01f8ed9839b7ab2e77c5a65a911
+八大第一,https://dispatch.ulivetv.net/v/live/cl7ckgyfn9vk.m3u8?stream_id=cl7ckgyfn9vk&timestamp=1685514720&rand=YPB5r2dg0G&uuid=9b647b3816b2a66a&from=web&sign=604118258aac8a8c00ae8c7927557743
+东森综合,https://dispatch.ulivetv.net/v/live/clecuafija9s.m3u8?stream_id=clecuafija9s&timestamp=1685515742&rand=ZiL2HHlSDp&uuid=9b647b3816b2a66a&from=web&sign=28e5ab73c186206db29413d9fcbfbb04
+ELEVEN SPORTS 1 HD,http://61.221.81.93:8078/hls/25/80/esport.m3u8
+ELEVEN SPORTS 2 HD,http/http://61.221.81.93:8078/hls/26/80/esport2.m3u8
+廈門衛視,http://61.221.81.93:8078/hls/42/80/xmtv.m3u8
+CCTV4-中央衛視,http://61.221.81.93:8078/hls/42/80/cctv4.m3u8
+海峽衛視,http://61.221.81.93:8078/hls/42/80/fjttv.m3u8
+浙江衛視,http://61.221.81.93:8078/hls/41/80/zhejiang.m3u8
+東方衛視,http://61.221.81.93:8078/hls/41/80/east.m3u8
+湖南衛視,http://61.221.81.93:8078/hls/41/80/huana.m3u8
+中视新闻台,http://awei.beimua.com/iptv.php?id=46
+台视新闻台,http://awei.beimua.com/iptv.php?id=47
+三立新闻台,http://awei.beimua.com/iptv.php?id=48
+民视新闻台,http://awei.beimua.com/iptv.php?id=50
+华视新闻台,http://awei.beimua.com/iptv.php?id=51
+镜电视新闻台,http://awei.beimua.com/iptv.php?id=52
+寰宇新闻台,http://awei.beimua.com/iptv.php?id=53
+TVBS新闻台,http://awei.beimua.com/iptv.php?id=54
+中视HD,http://awei.beimua.com/iptv.php?id=60
+台视HD,http://awei.beimua.com/iptv.php?id=61
+民视HD,http://awei.beimua.com/iptv.php?id=62
+华视HD,http://awei.beimua.com/iptv.php?id=63
+纬来体育台,http://awei.beimua.com/iptv.php?id=73
+纬来日本台,http://awei.beimua.com/iptv.php?id=74
+纬来育乐台,http://awei.beimua.com/iptv.php?id=75
+ELEVEN 1,http://awei.beimua.com/iptv.php?id=76
+爱尔达体育1台,http://awei.beimua.com/iptv.php?id=79
+爱尔达体育2台,http://awei.beimua.com/iptv.php?id=80
+財經體育資訊台,https://p2.weizan.cn:443/1646497941/269664979080385265/live.m3u8
 上海,#genre#
 咪咕全民热练,http://gslbserv.itv.cmvideo.cn:80/1000000006000270007/index.m3u8?channel-id=ystenlive&Contentid=1000000006000270007&livemode=1&stbId=3
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
