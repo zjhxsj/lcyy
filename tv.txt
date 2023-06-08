@@ -23,7 +23,7 @@
 翡翠台,http://hkanime.live/raw.m3u
 翡翠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxA5oJl8b5Icz-0MXK7POxcc/ts
 明珠台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxEzv3SLBhKEUmYG73triGDY/ts
-星河频道,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
+翡翠星河台,http://zw9999.cnstream.top:80/play/ubI0Nrlni6TwusjXuSxNxKhNUGBfO_GdATzBMAV6h6g/ts
 J2,http://r.jdshipin.com/Nr5jq
 J2,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-960303e5-a491-49da-a473-920d5eb26fd5.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
